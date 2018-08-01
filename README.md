@@ -1,4 +1,4 @@
-# spring-mongodb-docker-example
+# SpringBoot MongoDb Docker example
 
 This project created for development of simple web API with `java` `Spring Boot`.
 In additon to this project contains `Docker` for containerization.
